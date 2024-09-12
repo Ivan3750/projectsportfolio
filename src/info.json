@@ -1,0 +1,85 @@
+,
+    {
+        "url": "/component-state",
+        "name": "Внутрішній стан компонента",
+        "img": "/component-state.png",
+        "element": "ComponentStatePage"
+    },
+    {
+        "url": "/class-components-events-2",
+        "name": "Компоненти Класи Події (2)",
+        "img": "class-components-events-2.png",
+        "element": "ClassComponentsEvents2Page"
+    },
+    {
+        "url": "/forms",
+        "name": "Форми",
+        "img": "forms.png",
+        "element": "FormsPage"
+    },
+    {
+        "url": "/forms-2",
+        "name": "Форми (2)",
+        "img": "forms-2.png",
+        "element": "Forms2Page"
+    },
+    {
+        "url": "/lifecycle",
+        "name": "Життєвий цикл",
+        "img": "lifecycle.png",
+        "element": "LifecyclePage"
+    },
+    {
+        "url": "/lifecycle-2",
+        "name": "Життєвий цикл (2)",
+        "img": "lifecycle-2.png",
+        "element": "Lifecycle2Page"
+    },
+    {
+        "url": "/http-requests",
+        "name": "HTTP-запити",
+        "img": "http-requests.png",
+        "element": "HttpRequestsPage"
+    },
+    {
+        "url": "/http-requests-2",
+        "name": "HTTP-запити (2)",
+        "img": "http-requests-2.png",
+        "element": "HttpRequests2Page"
+    },
+    {
+        "url": "/react-hooks",
+        "name": "React hooks. Хуки useState, useEffect та власні хуки",
+        "img": "react-hooks.png",
+        "element": "ReactHooksPage"
+    },
+    {
+        "url": "/hooks-usage",
+        "name": "React hooks. Використання хуків useState useEffect та власні хуки",
+        "img": "hooks-usage.png",
+        "element": "HooksUsagePage"
+    },
+    {
+        "url": "/hooks-context",
+        "name": "React hooks. Контекст та useContext, useRef",
+        "img": "hooks-context.png",
+        "element": "HooksContextPage"
+    },
+    {
+        "url": "/hooks-memo-callback",
+        "name": "React hooks. Хуки useMemo, useCallback",
+        "img": "hooks-memo-callback.png",
+        "element": "HooksMemoCallbackPage"
+    },
+    {
+        "url": "/hooks-usereducer",
+        "name": "React hooks. Практика Хук useReducer",
+        "img": "hooks-usereducer.png",
+        "element": "HooksUseReducerPage"
+    },
+    {
+        "url": "/team-project",
+        "name": "Командний проект",
+        "img": "team-project.png",
+        "element": "TeamProjectPage"
+    }

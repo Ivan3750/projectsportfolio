@@ -1,0 +1,43 @@
+[
+    {
+        "url": "/react-jsx",
+        "name": "Бібліотека React. JSX",
+        "img": "/react-jsx.png",
+        "element": "ReactJSXPage"
+    },
+    {
+        "url": "/components",
+        "name": "Компоненти",
+        "img": "/components.png",
+        "element": "ComponentsPage"
+    },
+    {
+        "url": "/components-jsx",
+        "name": "Компоненти. JSX",
+        "img": "/components-jsx.png",
+        "element": "ComponentsJSXPage"
+    },
+    {
+        "url": "/css-modules",
+        "name": "Стилізація CSS модулі",
+        "img": "/css-modules.png",
+        "element": "CssModulesPage"
+    },
+    {
+        "url": "/css-in-js",
+        "name": "Стилізація CSS in JS",
+        "img": "/css-in-js.png",
+        "element": "CssInJsPage"
+    },
+    {
+        "url": "/styling",
+        "name": "Стилізація",
+        "img": "/styling.png",
+        "element": "StylingPage"
+    },
+    {
+        "url": "/class-components-events",
+        "name": "Компоненти Класи Події",
+        "img": "/class-components-events.png",
+        "element": "ClassComponentsEventsPage"
+    }]
