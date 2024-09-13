@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/projectsportfolio/static/css/main.09b9f287.css",
+    "main.js": "/projectsportfolio/static/js/main.79cea1f4.js",
+    "static/js/453.c0b04573.chunk.js": "/projectsportfolio/static/js/453.c0b04573.chunk.js",
+    "static/media/FrontDevelopment.png": "/projectsportfolio/static/media/FrontDevelopment.7370a26ce1dec4d34bad.png",
+    "static/media/Software Development.png": "/projectsportfolio/static/media/Software Development.f0eef2fcf35091af76e6.png",
+    "static/media/best-react-component-libraries.webp": "/projectsportfolio/static/media/best-react-component-libraries.4e397c821381cfefdc72.webp",
+    "index.html": "/projectsportfolio/index.html",
+    "main.09b9f287.css.map": "/projectsportfolio/static/css/main.09b9f287.css.map",
+    "main.79cea1f4.js.map": "/projectsportfolio/static/js/main.79cea1f4.js.map",
+    "453.c0b04573.chunk.js.map": "/projectsportfolio/static/js/453.c0b04573.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b9f287.css",
+    "static/js/main.79cea1f4.js"
+  ]
+}
