@@ -4,11 +4,11 @@ import './App.css';
 
 import HomePage from './pages/Home';
 import ReactJSXPage from './pages/ReactJSXPage';
-/* import ComponentsPage from './pages/ComponentsPage';
- *//* import ComponentsJSXPage from './pages/ComponentsJSXPage';
-import CssModulesPage from './pages/CssModulesPage';
-import CssInJsPage from './pages/CssInJsPage';
-import StylingPage from './pages/StylingPage';
+import ComponentsPage from './pages/ComponentsPage';
+import ComponentsJSXPage from './pages/ComponentsJSXPage';
+/*  import CssModulesPage from './pages/CssModulesPage';
+ */import CssInJsPage from './pages/CssInJsPage';
+/*import StylingPage from './pages/StylingPage';
 import ClassComponentsEventsPage from './pages/ClassComponentsEventsPage';
 import ComponentStatePage from './pages/ComponentStatePage';
 import ClassComponentsEvents2Page from './pages/ClassComponentsEvents2Page';
@@ -29,11 +29,11 @@ import projectsData from './projects.json';
 
 const components = {
   ReactJSXPage,
-/*   ComponentsPage,
- */ /*  ComponentsJSXPage,
-  CssModulesPage,
+  ComponentsPage,
+  ComponentsJSXPage,
+ /*  CssModulesPage, */
   CssInJsPage,
-  StylingPage,
+   /*StylingPage,
   ClassComponentsEventsPage,
   ComponentStatePage,
   ClassComponentsEvents2Page,

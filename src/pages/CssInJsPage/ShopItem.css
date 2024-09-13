@@ -1,0 +1,81 @@
+@import url(https://fonts.googleapis.com/css?family=Unbounded:200,300,regular,500,600,700,800,900);
+
+
+* {
+    font-family: "Unbounded";
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+    user-select: none;
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: antiquewhite;
+}
+.block{
+
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.title{
+    font-size: 18px;
+}
+
+.container{
+    font-size: 12px;
+    background-color: rgb(191, 239, 255);
+    width: 250px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    gap: 5px;
+    cursor: pointer;
+    transition: .3s;
+}
+.container:hover{
+    transition: .3s;
+    scale: 0.9;
+}
+.container:active{
+    transition: .3s;
+    scale: 0.9;
+}
+
+.container svg{
+    font-size: 20px;
+}
+
+.info{
+    padding: 10px;
+
+}
+
+.rating{
+    fill: gold;
+}
+
+.item-available{
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: green;
+}
+.item-unavailable{
+    width: 10px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: rgb(128, 0, 0);
+}
+
+.price{
+    font-size: 18px;
+}

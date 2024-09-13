@@ -3,7 +3,7 @@ import FrontEndImg from "../images/FrontDevelopment.png"
 import SoftDevelopmentImg from "../images/Software Development.png"
 import ReactImg from "../images/best-react-component-libraries.webp"
 import projects from "../projects.json"
-
+import '../App.css';
 const HomePage = () => {
     return ( <div>
     <header>

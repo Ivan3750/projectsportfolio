@@ -1,0 +1,18 @@
+[  {
+    "name": "Starship Model",    "category": "Toys",
+    "price": "49.99",    "rating": 3,
+    "available": true,    "details": {
+      "dimensions": "15x15x20 cm",      "weight": "1.5 kg"
+    }  },
+  {    "name": "Laser Sword",
+    "category": "Weapons",    "price": "149.99",
+    "rating": 5,    "available": false,
+    "details": {      "dimensions": "100x3x3 cm",
+      "weight": "0.8 kg"    }
+  },  {
+    "name": "Space Helmet",    "category": "Apparel",
+    "price": "99.99",    "rating": 4,
+    "available": true,    "details": {
+      "dimensions": "30x30x30 cm",      "weight": "2.3 kg"
+    }  }
+]
