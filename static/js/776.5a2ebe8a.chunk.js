@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkprojectsportfolio=self.webpackChunkprojectsportfolio||[]).push([[776],{776:(s,e,t)=>{t.r(e),t.d(e,{default:()=>i});var c=t(579);const n=s=>(0,c.jsxs)("h1",{children:["Hello! ",s.name]}),o=s=>(0,c.jsx)("p",{children:s.txt}),l=s=>(0,c.jsx)("button",{onClick:s.onClick,children:"Click Me"});const i=function(){return(0,c.jsxs)("div",{children:[(0,c.jsx)(n,{name:"Ivan"}),(0,c.jsx)(o,{txt:"This is a custom message!"}),(0,c.jsx)(l,{onClick:()=>{alert("Button was clicked!")}})]})}}}]);
+//# sourceMappingURL=776.5a2ebe8a.chunk.js.map
