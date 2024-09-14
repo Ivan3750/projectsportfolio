@@ -1,6 +1,7 @@
 import  {MdToys} from "react-icons/md"
 import  {GiPistolGun, GiClothes} from "react-icons/gi"
 import  {FaStar, FaMoneyBill, FaWeightHanging, FaCube, Fashirt, FaGun} from "react-icons/fa"
+import styles from './ShopItem.module.css';
 
 
 
@@ -12,10 +13,10 @@ const ShopItem = ({itemData}) =>{
         Apparel: <GiClothes />
       };
     return(
-<div className="container">
-    <div className={itemData.available ? "item-available" : "item-unavailable"}></div>
-    <h2 className="title">{itemData.name}</h2>
-    <div className="info">
+<div className={styles.container}>
+<div className={itemData.available ? styles.itemAvailable : styles.itemUnavailable}></div>
+    <h2 className={styles.title}>{itemData.name}</h2>
+    <div className={styles.info}>
     <p>
         {categoryIcons[itemData.category]} {itemData.category}
       </p>
@@ -25,11 +26,11 @@ const ShopItem = ({itemData}) =>{
     <p>
     <p>
   {Array.from({ length: 5 }, (e, index) => (
-    <FaStar className="rating" key={index} style={{ fill: index < itemData.rating ? "gold" : "gray" }} 
+    <FaStar className={styles.rating} key={index} style={{ fill: index < itemData.rating ? styles.gold : styles.gray }} 
     />
   ))}
   {itemData.rating}
-  <p><FaMoneyBill></FaMoneyBill> <span className="price">€{itemData.price}</span></p>
+  <p><FaMoneyBill></FaMoneyBill> <span className={styles.price}>€{itemData.price}</span></p>
 
 </p>
 

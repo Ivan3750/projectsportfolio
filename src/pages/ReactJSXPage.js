@@ -1,5 +1,4 @@
 import React from 'react'
-
 function ReactJSXPage() {
   const name = "Іван"
   const favoriteSite = {

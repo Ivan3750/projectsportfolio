@@ -19,12 +19,15 @@
     border-bottom: 1px solid #dddddd;
   }
   
+  .transaction-history tr {
+    background-color: #99e2ff;
+  }
   .transaction-history tr:nth-child(even) {
-    background-color: #f3f3f3;
+    background-color: #88dbfb;
   }
   
   .transaction-history tr:hover {
-    background-color: #8b8b8b;
+    background-color: #54ceff;
   }
   
   .transaction-history th {

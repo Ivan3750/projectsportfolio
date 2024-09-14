@@ -2,37 +2,37 @@
     {
         "url": "/react-jsx",
         "name": "Бібліотека React. JSX",
-        "img": "/react-jsx.png",
+        "img": "reactJSXImg",
         "element": "ReactJSXPage"
     },
     {
         "url": "/components",
         "name": "Компоненти",
-        "img": "/components.png",
+        "img": "ComponentsImg",
         "element": "ComponentsPage"
     },
     {
         "url": "/components-jsx",
         "name": "Компоненти. JSX",
-        "img": "/components-jsx.png",
+        "img": "ComponentsJSImg",
         "element": "ComponentsJSXPage"
     },
     {
         "url": "/css-modules",
         "name": "Стилізація CSS модулі",
-        "img": "/css-modules.png",
-        "element": "CssModulesPage"
+        "img": "CssModulesImg",
+        "element": "ComponentsJSXPage" 
     },
     {
         "url": "/css-in-js",
         "name": "Стилізація CSS in JS",
-        "img": "/css-in-js.png",
+        "img": "CssInJsImg",
         "element": "CssInJsPage"
     },
     {
         "url": "/styling",
         "name": "Стилізація",
-        "img": "/styling.png",
+        "img": "StylingImg",
         "element": "StylingPage"
     },
     {

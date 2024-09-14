@@ -10,7 +10,7 @@ const HomePage = () => {
         <p className="header-logoName">Projects</p>
     </header>
         <div className="hero">
-            <h1 className="title"><span className="React-txt">React</span> projects by Ivan Kohan</h1>
+            <h1 className="hero__title"><span className="React-txt">React</span> projects by Ivan Kohan</h1>
             <div className="images-block">
                 <img src={FrontEndImg} alt="" className="FrontEndImg"/>
                 <img src={SoftDevelopmentImg} alt="" className="SoftDevelopmentImg"/>

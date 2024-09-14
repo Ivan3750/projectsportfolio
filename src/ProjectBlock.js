@@ -1,14 +1,29 @@
-import React, { useState } from "react";
+import React from 'react';
+import reactJSXImg from './images/projects-img/react-jsx.png';
+import ComponentsImg from './images/projects-img/components.png';
+import ComponentsJSImg from './images/projects-img/components.png';
+import CssModulesImg from './images/projects-img/css-modules.png';
+import CssInJsImg from './images/projects-img/css-in-js.png';
+ import StylingImg from './images/projects-img/styling.png';
+/*import ClassComponentsEventsImg from './images/projects-img/class-components-events.png';
+ */
+const images = {
+  reactJSXImg,
+  ComponentsImg,
+  ComponentsJSImg,
+  CssModulesImg,
+  CssInJsImg,
+  StylingImg,
+/*   ClassComponentsEventsImg */
+};
 
 const ProjectBlock = ({ project }) => {
-  const [imgSrc, setImgSrc] = useState(project.img || "#")
-
-
+  const imageUrl = images[project.img]; 
 
   return (
     <div className="project-block">
-      <img
-        src={imgSrc}
+      <img className='project-block-img'
+        src={imageUrl}
         alt={project.name || "Project Image"}
       />
       <div className="project-block__controls">

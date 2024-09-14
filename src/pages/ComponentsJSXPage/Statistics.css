@@ -35,6 +35,8 @@
     display: block;
     font-size: 16px;
     margin-bottom: 5px;
+    color: rgb(0, 0, 0);
+    margin: 5px;
   }
   
   .percentage {
