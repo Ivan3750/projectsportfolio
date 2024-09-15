@@ -10,6 +10,7 @@ const ComponentsPage = lazy(() => import('./pages/ComponentsPage'));
 const ComponentsJSXPage = lazy(() => import('./pages/ComponentsJSXPage'));
 const CssInJsPage = lazy(() => import('./pages/CssInJsPage'))
 const StylingPage = lazy(() => import('./pages/StylingPage'))
+const ClassComponentsEventsPage = lazy(() => import('./pages/ClassComponentsEventsPage'))
 
 function App() {
   return (
@@ -22,7 +23,8 @@ function App() {
               ComponentsPage,
               ComponentsJSXPage,
               CssInJsPage,
-              StylingPage
+              StylingPage,
+              ClassComponentsEventsPage
             }[project.element];
 
             return (

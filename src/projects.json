@@ -38,6 +38,6 @@
     {
         "url": "/class-components-events",
         "name": "Компоненти Класи Події",
-        "img": "/class-components-events.png",
+        "img": "ClassComponentsEventsImg",
         "element": "ClassComponentsEventsPage"
     }]
