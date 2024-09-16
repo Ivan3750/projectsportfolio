@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projectsportfolio/static/css/main.7a47c1c1.css",
-    "main.js": "/projectsportfolio/static/js/main.cd5bedcb.js",
+    "main.css": "/projectsportfolio/static/css/main.c48c5567.css",
+    "main.js": "/projectsportfolio/static/js/main.38c692ec.js",
     "static/media/FrontDevelopment.png": "/projectsportfolio/static/media/FrontDevelopment.7370a26ce1dec4d34bad.png",
     "static/media/Software Development.png": "/projectsportfolio/static/media/Software Development.f0eef2fcf35091af76e6.png",
     "static/media/components.png": "/projectsportfolio/static/media/components.d169b819ddd1456aa1ac.png",
@@ -10,13 +10,14 @@
     "static/media/styling.png": "/projectsportfolio/static/media/styling.dc46b2cdd33fa06a4ab9.png",
     "static/media/best-react-component-libraries.webp": "/projectsportfolio/static/media/best-react-component-libraries.4e397c821381cfefdc72.webp",
     "static/media/css-in-js.png": "/projectsportfolio/static/media/css-in-js.8b7327d84ebf0960744f.png",
+    "static/media/ComponentStateImg.png": "/projectsportfolio/static/media/ComponentStateImg.791ce3662ad5e65d5b3f.png",
     "static/media/class-components-eventsImg.png": "/projectsportfolio/static/media/class-components-eventsImg.67ac1d9b7ea126c4845b.png",
     "index.html": "/projectsportfolio/index.html",
-    "main.7a47c1c1.css.map": "/projectsportfolio/static/css/main.7a47c1c1.css.map",
-    "main.cd5bedcb.js.map": "/projectsportfolio/static/js/main.cd5bedcb.js.map"
+    "main.c48c5567.css.map": "/projectsportfolio/static/css/main.c48c5567.css.map",
+    "main.38c692ec.js.map": "/projectsportfolio/static/js/main.38c692ec.js.map"
   },
   "entrypoints": [
-    "static/css/main.7a47c1c1.css",
-    "static/js/main.cd5bedcb.js"
+    "static/css/main.c48c5567.css",
+    "static/js/main.38c692ec.js"
   ]
 }
