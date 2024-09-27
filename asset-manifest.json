@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/projectsportfolio/static/css/main.73a19591.css",
-    "main.js": "/projectsportfolio/static/js/main.461c11c1.js",
+    "main.css": "/projectsportfolio/static/css/main.9f69f8c3.css",
+    "main.js": "/projectsportfolio/static/js/main.17422154.js",
     "static/media/FrontDevelopment.png": "/projectsportfolio/static/media/FrontDevelopment.7370a26ce1dec4d34bad.png",
     "static/media/Software Development.png": "/projectsportfolio/static/media/Software Development.f0eef2fcf35091af76e6.png",
     "static/media/components.png": "/projectsportfolio/static/media/components.d169b819ddd1456aa1ac.png",
@@ -10,17 +10,18 @@
     "static/media/styling.png": "/projectsportfolio/static/media/styling.dc46b2cdd33fa06a4ab9.png",
     "static/media/class-components-eventsImg2.png": "/projectsportfolio/static/media/class-components-eventsImg2.730f455874251fb7fe23.png",
     "static/media/forms.png": "/projectsportfolio/static/media/forms.ddf43787fbb7d8b04f76.png",
+    "static/media/FormsTodoListImg.png": "/projectsportfolio/static/media/FormsTodoListImg.c4986a4834ac3bae7a9c.png",
     "static/media/best-react-component-libraries.webp": "/projectsportfolio/static/media/best-react-component-libraries.4e397c821381cfefdc72.webp",
     "static/media/css-in-js.png": "/projectsportfolio/static/media/css-in-js.8b7327d84ebf0960744f.png",
     "static/media/ComponentStateImg.png": "/projectsportfolio/static/media/ComponentStateImg.791ce3662ad5e65d5b3f.png",
     "static/media/class-components-eventsImg.png": "/projectsportfolio/static/media/class-components-eventsImg.67ac1d9b7ea126c4845b.png",
     "static/media/ExtraFormsImg.png": "/projectsportfolio/static/media/ExtraFormsImg.56b922f654cd607ea512.png",
     "index.html": "/projectsportfolio/index.html",
-    "main.73a19591.css.map": "/projectsportfolio/static/css/main.73a19591.css.map",
-    "main.461c11c1.js.map": "/projectsportfolio/static/js/main.461c11c1.js.map"
+    "main.9f69f8c3.css.map": "/projectsportfolio/static/css/main.9f69f8c3.css.map",
+    "main.17422154.js.map": "/projectsportfolio/static/js/main.17422154.js.map"
   },
   "entrypoints": [
-    "static/css/main.73a19591.css",
-    "static/js/main.461c11c1.js"
+    "static/css/main.9f69f8c3.css",
+    "static/js/main.17422154.js"
   ]
 }
